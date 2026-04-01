@@ -22,7 +22,7 @@ on:
       MEDIA3_BRANCH:
         description: "media3 branch"
         required: true
-        default: 'release'
+        default: 'androidx-media3-1.5.1'
       FFMPEG_ENABLE_GPL:
         description: "Enable FFmpeg GPL"
         required: true
